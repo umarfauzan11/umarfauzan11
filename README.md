@@ -6,10 +6,10 @@
 # 💫 About Me:
 🔭 I’m currently working on **cool creative projects & web stuff**<br>  
 👯 I’m looking to collaborate on **open source, design & gaming tools**<br>  
-🤝 I’m looking for help with **advanced backend & clean UI/UX design**<br>  
+🤝 I’m looking for help with **advanced frontend & clean UI/UX design**<br>  
 🌱 I’m currently learning **PHP & JavaScript deeper**<br>  
 💬 Ask me about **tech, games, or design memes**<br>  
-⚡ Fun fact: I can jump between code and canvas like a ninja 🎯
+⚡ Fun fact: I can jump between code and canvas like a ninja LOL🎯
 
 ---
 
