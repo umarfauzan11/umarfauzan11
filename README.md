@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Usahlan1120-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/446YDCAQ)  
 [![Instagram](https://img.shields.io/badge/@umarfasahlan-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umarfasahlan)  
-[![Email](https://img.shields.io/badge/survaivell@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:survaivell@gmail.com)
+[![Email](https://img.shields.io/badge/usahlanbuisness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usahlanbuisness@gmail.com)
 
 ---
 
