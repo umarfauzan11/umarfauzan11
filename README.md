@@ -17,12 +17,53 @@
 
 ---
 
-## 🌐 Connect With Me
 <p>
-  <a href="https://discord.gg/446YDCAQ"><img src="https://img.shields.io/badge/Usahlan1120-%237289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/umarfasahlan"><img src="https://img.shields.io/badge/@umarfasahlan-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:usahlanbuisness@gmail.com"><img src="https://img.shields.io/badge/usahlanbuisness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- Discord -->
+  <a href="https://discord.gg/446YDCAQ">
+    <img src="https://img.shields.io/badge/Usahlan1120-%237289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/umarfasahlan">
+    <img src="https://img.shields.io/badge/@umarfasahlan-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:usahlanbuisness@gmail.com">
+    <img src="https://img.shields.io/badge/usahlanbuisness@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <!-- Personal Website -->
+  <a href="https://YOUR-WEBSITE.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
@@ -31,12 +72,15 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 
 ---
 
@@ -52,6 +96,7 @@
   <img src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
 </p>
+
 
 ---
 
