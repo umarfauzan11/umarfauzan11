@@ -34,32 +34,22 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/umarfauzan11">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/umar-fauzan-irvan-24139b363">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
   <!-- YouTube -->
-  <a href="https://youtube.com/@YOUR_USERNAME">
+  <a href="https://youtube.com/@UFauzan">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
   <!-- Personal Website -->
-  <a href="https://YOUR-WEBSITE.com">
+  <a href="https://pasonaufauzan.netlify.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
