@@ -1,11 +1,10 @@
-<h1 align="center">Umar Fauzan</h1>
+<h1 align="center">UFauzan</h1>
 <p align="center">Programmer • Creative Developer</p>
 
 ---
 
 ## About
 I build web-based applications and creative digital experiences, focusing on clean implementation, usability, and visual clarity.
-
 Currently working on web development projects and exploring modern frontend workflows.
 
 ---
