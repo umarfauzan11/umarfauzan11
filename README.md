@@ -9,7 +9,7 @@
 ## About
 
 I build web-based applications and creative digital experiences, focusing on clean implementation, usability, and visual clarity.
-Currently working on web development projects and exploring modern frontend workflows.
+Currently working on web development projects and exploring modern frontend workflows
 
 ---
 
