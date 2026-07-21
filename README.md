@@ -40,4 +40,4 @@ Currently working on web development projects and exploring modern frontend work
 * GitHub: https://github.com/umarfauzan11
 * LinkedIn: https://linkedin.com/in/umar-fauzan-irvan-24139b363
 * Email: [usahlanbusiness@gmail.com](mailto:usahlanbusiness@gmail.com)
-* My Social Media: https://uwebly.com
+* My Social Media: https://uwebly.com/
