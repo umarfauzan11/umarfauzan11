@@ -13,6 +13,12 @@ Currently working on web development projects and exploring modern frontend work
 
 ---
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umarfauzan11&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umarfauzan11&theme=holi)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umarfauzan11&theme=holi)
+
+---
+
 ## Focus
 
 * Web Development (ReactJS, Laravel)
