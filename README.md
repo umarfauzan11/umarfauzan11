@@ -21,16 +21,16 @@ Currently working on web development projects and exploring modern frontend work
 
 ## Focus
 
-* Web Development (ReactJS, Laravel)
+* Web Development (ReactJS+Vite, Laravel, NextJS)
 * Mobile Development (Flutter, Kotlin, React Native)
-* UI & Frontend Implementation
+* UI UX & Frontend Implementation
 * Creative Development & Design Integration
 
 ---
 
 ## Tech
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,nodejs,laravel,flutter,dart,firebase,react,bootstrap,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,typescript,nodejs,laravel,flutter,dart,firebase,react,bootstrap,html,css&theme=light)](https://skillicons.dev)
 
 ---
 
