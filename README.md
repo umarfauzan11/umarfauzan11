@@ -2,7 +2,7 @@
   <img src="https://yt3.googleusercontent.com/93Snd8yKoblO3Aidgll19k0Ao2puTjJVEsGxBDJupN6ytm6uAdiHmRWu4jZdoHQXbQ11rkJFww=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="Banner" width="100%">
 </p>
 
-<p align="center">Programmer • Creative Developer</p>
+<p align="center">Software Engineer</p>
 
 ---
 
@@ -22,7 +22,7 @@ Currently working on web development projects and exploring modern frontend work
 ## Focus
 
 * Web Development (ReactJS+Vite, Laravel, NextJS)
-* Mobile Development (Flutter, Kotlin, React Native)
+* Mobile Development (Flutter, React Native)
 * UI UX & Frontend Implementation
 * Creative Development & Design Integration
 
@@ -30,14 +30,13 @@ Currently working on web development projects and exploring modern frontend work
 
 ## Tech
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,typescript,nodejs,laravel,flutter,dart,firebase,react,bootstrap,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,php,nodejs,laravel,flutter,dart,firebase,react,bootstrap,tailwind,vite,mysql,mongodb,linux,html,css&theme=light)](https://skillicons.dev)
 
 ---
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,postman,obsidian,netlify,cloudflare,github,mongodb,blender,godot&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,postman,obsidian,netlify,cloudflare,github,blender,git,godot,discord,notion,vercel&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -47,3 +46,4 @@ Currently working on web development projects and exploring modern frontend work
 * LinkedIn: https://linkedin.com/in/umar-fauzan-irvan-24139b363
 * Email: [usahlanbusiness@gmail.com](mailto:usahlanbusiness@gmail.com)
 * My Social Media: https://uwebly.com/
+* Say Hello to Velora: https://velora.uwebly.com
