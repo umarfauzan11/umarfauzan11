@@ -36,7 +36,7 @@ Currently working on web development projects and exploring modern frontend work
 
 ## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,androidstudio,postman,obsidian,netlify,cloudflare,github,blender,git,godot,discord,notion,vercel&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vite,figma,androidstudio,postman,obsidian,netlify,cloudflare,github,blender,git,godot,discord,notion,vercel&theme=light)](https://skillicons.dev)
 
 ---
 
